@@ -1,37 +1,37 @@
 # Hi there, I'm Veronica Lopez 👋
 
-I'm a Frontend Developer passionate about building clean, responsive, and user-friendly web applications. I enjoy turning ideas into real projects and continously learning new technologies to improve my skills.
+**I'm a Frontend Developer passionate about building clean, responsive, and user-friendly web applications. I enjoy turning ideas into real projects and continously learning new technologies to improve my skills.
 ---
 
 ## 💻 Technologies
 ---
-Languages: TypeScript, JavaScript
-Backend: Php, Laravel, Node.js, NestJS 
-Frontend: React.js, Vue, Angular 
-Styles: Bootstrap, Tailwind CSS
-APIs: REST
-Database: MySql, SQL Server
+- Languages: TypeScript, JavaScript
+- Backend: Php, Laravel, Node.js, NestJS 
+- Frontend: React.js, Vue, Angular 
+- Styles: Bootstrap, Tailwind CSS
+- APIs: REST
+- Database: MySql, SQL Server
 
 📂 Projects
 ---
 I have worked on web projects such as:
 
-Library Registration System
-Technical Committees Registration System
-Personal Portfolio Website
-Wedding invitation
+- Library Registration System
+- Technical Committees Registration System
+- Personal Portfolio Website
+- Wedding invitation
 
 🌱 Currently Learning
 ---
-Improving my Front-End development skills
-Better UI/UX practices
-Modern JavaScript and React
-AI concepts and real-world applications
+- Improving my Front-End development skills
+- Better UI/UX practices
+- Modern JavaScript and React
+- AI concepts and real-world applications
 
 📫 Contact
 ---
-LinkedIn 
-Email
+- LinkedIn 
+- Email
 
 ✨ “Always learning, always building.”
 <!--
