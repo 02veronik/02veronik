@@ -3,7 +3,7 @@
 **I'm a Frontend Developer passionate about building clean, responsive, and user-friendly web applications. I enjoy turning ideas into real projects and continously learning new technologies to improve my skills.
 ---
 
-## 💻 Technologies
+💻 Technologies
 ---
 - Languages: TypeScript, JavaScript
 - Backend: Php, Laravel, Node.js, NestJS 
