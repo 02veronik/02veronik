@@ -1,8 +1,7 @@
 # Hi there, I'm Veronica Lopez 👋
 
-**I'm a Frontend Developer passionate about building clean, responsive, and user-friendly web applications. I enjoy turning ideas into real projects and continously learning new technologies to improve my skills.
----
-
+I'm a Frontend Developer passionate about building clean, responsive, and user-friendly web applications. I enjoy turning ideas into real projects and continously learning new technologies to improve my skills.
+ 
 💻 Technologies
 ---
 - Languages: TypeScript, JavaScript
