@@ -29,7 +29,8 @@ I have worked on web projects such as:
 
 📫 Contact
 ---
-- LinkedIn 
+- LinkedIn (https://www.linkedin.com/in/veronica-lopez02/)
+- [LinkedIn] (https://www.linkedin.com/in/veronica-lopez02/)
 - Email
 
 ✨ “Always learning, always building.”
