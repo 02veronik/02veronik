@@ -3,8 +3,8 @@
 I'm a Frontend Developer passionate about building clean, responsive, and user-friendly web applications. I enjoy turning ideas into real projects and continously learning new technologies to improve my skills.
 ---
 
-##💻 Technologies
-
+## 💻 Technologies
+---
 Languages: TypeScript, JavaScript
 Backend: Php, Laravel, Node.js, NestJS 
 Frontend: React.js, Vue, Angular 
@@ -12,7 +12,7 @@ Styles: Bootstrap, Tailwind CSS
 APIs: REST
 Database: MySql, SQL Server
 
-##📂 Projects
+📂 Projects
 ---
 I have worked on web projects such as:
 
@@ -21,14 +21,14 @@ Technical Committees Registration System
 Personal Portfolio Website
 Wedding invitation
 
-##🌱 Currently Learning
+🌱 Currently Learning
 ---
 Improving my Front-End development skills
 Better UI/UX practices
 Modern JavaScript and React
 AI concepts and real-world applications
 
-##📫 Contact
+📫 Contact
 ---
 LinkedIn 
 Email
